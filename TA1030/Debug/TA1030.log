@@ -1,0 +1,3 @@
+﻿  TA1030.cpp
+C:\Users\user\Desktop\TA1030\TA1030\TA1030.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  TA1030.vcxproj -> C:\Users\user\Desktop\TA1030\Debug\TA1030.exe
